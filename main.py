@@ -1,12 +1,11 @@
 """
-Generative AI Task 3: Text Generation using Markov Chains
+Text Generation using Markov Chains
 ---------------------------------------------------------
 This program implements an N-gram Markov Chain text generator from scratch
 using only Python's standard library. It processes a text corpus, builds a
 state-transition probability model, and generates coherent, randomized text
 based on user-specified parameters.
 
-Author: Internship Submission
 Date: June 2026
 """
 
@@ -183,7 +182,6 @@ def display_banner():
     """Print a professional CLI banner for the application."""
     print("=" * 70)
     print("        * TEXT GENERATION SYSTEM USING MARKOV CHAINS *")
-    print("                (Internship Submission - Task 3)       ")
     print("=" * 70)
     print(" This tool learns language patterns from a text file and generates")
     print(" original, contextually plausible sentences using probabilistic state")
