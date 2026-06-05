@@ -1,0 +1,14 @@
+# ==============================================================================
+# Requirements for Text Generation with Markov Chains
+# ==============================================================================
+# This project is designed to run using only Python standard libraries.
+# No external dependencies or pip packages are required.
+#
+# Requirements:
+# - Python 3.7 or higher
+#
+# Standard Libraries Used:
+# - os (For path handling and directory creation)
+# - re (For regular expression-based text cleaning and tokenization)
+# - collections (For defaultdict, facilitating the transition table structure)
+# - random (For probabilistic next-word selection)

@@ -1,0 +1,2 @@
+This directory is intended for project screenshots showing execution outputs.
+Please take screenshots of the console execution and save them here (e.g., terminal_run.png).
