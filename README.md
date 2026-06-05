@@ -1,5 +1,7 @@
 # Text Generation with Markov Chains 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Madhesh459/PRODIGY_GAI_03-Text-Generation-with-Markov-Chains-/blob/main/notebook.ipynb)
+
 A complete, production-grade, object-oriented implementation of an N-gram Markov Chain Text Generation system in Python. This project is built entirely from scratch using only Python's standard library to demonstrate core concepts of probabilistic modeling, natural language tokenization, and state-machine transitions.
 
 ---
